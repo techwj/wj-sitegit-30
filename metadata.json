@@ -1,0 +1,59 @@
+{
+  "siteId": "local-hidden-gem-restaurants",
+  "generatedAt": "2026-06-02T15:38:12.596495",
+  "categories": [
+    "beginner-local-hidden-gem-restaurants",
+    "advanced-local-hidden-gem-restaurants",
+    "tips-local-hidden-gem-restaurants",
+    "history-local-hidden-gem-restaurants",
+    "trending-local-hidden-gem-restaurants",
+    "tutorials-local-hidden-gem-restaurants"
+  ],
+  "categoryData": [
+    {
+      "category_slug": "beginner-local-hidden-gem-restaurants",
+      "category_name": "Beginner Local Hidden Gem Restaurants"
+    },
+    {
+      "category_slug": "advanced-local-hidden-gem-restaurants",
+      "category_name": "Advanced Local Hidden Gem Restaurants"
+    },
+    {
+      "category_slug": "tips-local-hidden-gem-restaurants",
+      "category_name": "Local Hidden Gem Restaurants Tips"
+    },
+    {
+      "category_slug": "history-local-hidden-gem-restaurants",
+      "category_name": "Local Hidden Gem Restaurants History"
+    },
+    {
+      "category_slug": "trending-local-hidden-gem-restaurants",
+      "category_name": "Trending Local Hidden Gem Restaurants"
+    },
+    {
+      "category_slug": "tutorials-local-hidden-gem-restaurants",
+      "category_name": "Local Hidden Gem Restaurants Tutorials"
+    }
+  ],
+  "articleCount": 60,
+  "design": {
+    "site_id": "local-hidden-gem-restaurants",
+    "color_scheme": {
+      "name": "Ocean Blue",
+      "primary": "#1e3a8a",
+      "secondary": "#3b82f6",
+      "accent": "#60a5fa",
+      "background": "#f8fafc",
+      "text": "#1e293b",
+      "light": "#f1f5f9"
+    },
+    "font": {
+      "family": "Inter, system-ui, -apple-system, sans-serif",
+      "heading": "Inter",
+      "body": "Inter"
+    },
+    "layout": "topbar",
+    "site_title": "Local Hidden Gem Restaurants Central",
+    "articles_per_row": 2
+  }
+}

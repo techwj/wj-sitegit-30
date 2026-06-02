@@ -1,0 +1,88 @@
+# Validation Report - local-hidden-gem-restaurants
+
+Generated: 2026-06-02T15:38:12.596198
+
+## Passed
+
+- ✓ Required file exists: privacy.html
+- ✓ Required file exists: cookie-policy.html
+- ✓ Required file exists: terms.html
+- ✓ Required file exists: ad-policy.html
+- ✓ Required file exists: contact.html
+- ✓ Required file exists: about.html
+- ✓ Required file exists: dmca.html
+- ✓ Required file exists: accessibility.html
+- ✓ Suggested file exists: data-request.html
+- ✓ Suggested file exists: do-not-sell.html
+- ✓ Suggested file exists: third-party-disclosure.html
+- ✓ Suggested file exists: disclaimer.html
+- ✓ Suggested file exists: external-link-policy.html
+- ✓ Suggested file exists: content-policy.html
+- ✓ Suggested file exists: security-policy.html
+- ✓ Suggested file exists: children-privacy.html
+- ✓ Suggested file exists: refund-policy.html
+- ✓ Suggested file exists: faq.html
+- ✓ Suggested file exists: press-kit.html
+- ✓ Suggested file exists: feedback.html
+- ✓ Suggested file exists: code-of-conduct.html
+- ✓ Article word count OK: The Ultimate Guide to Beginner Local Hidden Gem Restaurants
+- ✓ Article word count OK: Beginner Local Hidden Gem Restaurants: Everything You Need to Know
+- ✓ Article word count OK: Understanding Beginner Local Hidden Gem Restaurants
+- ✓ Article word count OK: Beginner Local Hidden Gem Restaurants Tips and Best Practices
+- ✓ Article word count OK: The History of Beginner Local Hidden Gem Restaurants
+- ✓ Article word count OK: Beginner Local Hidden Gem Restaurants in 2026: Current Trends
+- ✓ Article word count OK: Future of Beginner Local Hidden Gem Restaurants
+- ✓ Article word count OK: Common Mistakes in Beginner Local Hidden Gem Restaurants
+- ✓ Article word count OK: Beginner Local Hidden Gem Restaurants for Beginners
+- ✓ Article word count OK: Advanced Beginner Local Hidden Gem Restaurants Techniques
+- ✓ Article word count OK: The Ultimate Guide to Advanced Local Hidden Gem Restaurants
+- ✓ Article word count OK: Advanced Local Hidden Gem Restaurants: Everything You Need to Know
+- ✓ Article word count OK: Understanding Advanced Local Hidden Gem Restaurants
+- ✓ Article word count OK: Advanced Local Hidden Gem Restaurants Tips and Best Practices
+- ✓ Article word count OK: The History of Advanced Local Hidden Gem Restaurants
+- ✓ Article word count OK: Advanced Local Hidden Gem Restaurants in 2026: Current Trends
+- ✓ Article word count OK: Future of Advanced Local Hidden Gem Restaurants
+- ✓ Article word count OK: Common Mistakes in Advanced Local Hidden Gem Restaurants
+- ✓ Article word count OK: Advanced Local Hidden Gem Restaurants for Beginners
+- ✓ Article word count OK: Advanced Advanced Local Hidden Gem Restaurants Techniques
+- ✓ Article word count OK: The Ultimate Guide to Local Hidden Gem Restaurants Tips
+- ✓ Article word count OK: Local Hidden Gem Restaurants Tips: Everything You Need to Know
+- ✓ Article word count OK: Understanding Local Hidden Gem Restaurants Tips
+- ✓ Article word count OK: Local Hidden Gem Restaurants Tips Tips and Best Practices
+- ✓ Article word count OK: The History of Local Hidden Gem Restaurants Tips
+- ✓ Article word count OK: Local Hidden Gem Restaurants Tips in 2026: Current Trends
+- ✓ Article word count OK: Future of Local Hidden Gem Restaurants Tips
+- ✓ Article word count OK: Common Mistakes in Local Hidden Gem Restaurants Tips
+- ✓ Article word count OK: Local Hidden Gem Restaurants Tips for Beginners
+- ✓ Article word count OK: Advanced Local Hidden Gem Restaurants Tips Techniques
+- ✓ Article word count OK: The Ultimate Guide to Local Hidden Gem Restaurants History
+- ✓ Article word count OK: Local Hidden Gem Restaurants History: Everything You Need to Know
+- ✓ Article word count OK: Understanding Local Hidden Gem Restaurants History
+- ✓ Article word count OK: Local Hidden Gem Restaurants History Tips and Best Practices
+- ✓ Article word count OK: The History of Local Hidden Gem Restaurants History
+- ✓ Article word count OK: Local Hidden Gem Restaurants History in 2026: Current Trends
+- ✓ Article word count OK: Future of Local Hidden Gem Restaurants History
+- ✓ Article word count OK: Common Mistakes in Local Hidden Gem Restaurants History
+- ✓ Article word count OK: Local Hidden Gem Restaurants History for Beginners
+- ✓ Article word count OK: Advanced Local Hidden Gem Restaurants History Techniques
+- ✓ Article word count OK: The Ultimate Guide to Trending Local Hidden Gem Restaurants
+- ✓ Article word count OK: Trending Local Hidden Gem Restaurants: Everything You Need to Know
+- ✓ Article word count OK: Understanding Trending Local Hidden Gem Restaurants
+- ✓ Article word count OK: Trending Local Hidden Gem Restaurants Tips and Best Practices
+- ✓ Article word count OK: The History of Trending Local Hidden Gem Restaurants
+- ✓ Article word count OK: Trending Local Hidden Gem Restaurants in 2026: Current Trends
+- ✓ Article word count OK: Future of Trending Local Hidden Gem Restaurants
+- ✓ Article word count OK: Common Mistakes in Trending Local Hidden Gem Restaurants
+- ✓ Article word count OK: Trending Local Hidden Gem Restaurants for Beginners
+- ✓ Article word count OK: Advanced Trending Local Hidden Gem Restaurants Techniques
+- ✓ Article word count OK: The Ultimate Guide to Local Hidden Gem Restaurants Tutorials
+- ✓ Article word count OK: Local Hidden Gem Restaurants Tutorials: Everything You Need to Know
+- ✓ Article word count OK: Understanding Local Hidden Gem Restaurants Tutorials
+- ✓ Article word count OK: Local Hidden Gem Restaurants Tutorials Tips and Best Practices
+- ✓ Article word count OK: The History of Local Hidden Gem Restaurants Tutorials
+- ✓ Article word count OK: Local Hidden Gem Restaurants Tutorials in 2026: Current Trends
+- ✓ Article word count OK: Future of Local Hidden Gem Restaurants Tutorials
+- ✓ Article word count OK: Common Mistakes in Local Hidden Gem Restaurants Tutorials
+- ✓ Article word count OK: Local Hidden Gem Restaurants Tutorials for Beginners
+- ✓ Article word count OK: Advanced Local Hidden Gem Restaurants Tutorials Techniques
+- ✓ Ad configuration validated
